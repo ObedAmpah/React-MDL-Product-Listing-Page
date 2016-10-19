@@ -2,7 +2,7 @@
 
 ####Goal
 
-This is a calculator layout built with the React UI and React-MDL library. It is not a fully functional calculator (yet!).
+This is a prodct listing page layout built with the React UI and React-MDL library. It is not a fully functional (yet!).
 
 
 ###Setup
